@@ -55,7 +55,7 @@ It’s designed for scalability, security, and easy deployment.
 
 ## 📂 Project Structure
 
-![Project Structure](structure.png)
+![Project Structure](./structure.png)
 
 
 
