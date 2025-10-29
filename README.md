@@ -55,23 +55,7 @@ It’s designed for scalability, security, and easy deployment.
 
 ## 📂 Project Structure
 
-file-storage-source-code-main/
-│
-├── app.py # Main Flask application
-├── requirements.txt # Python dependencies
-├── .env # Environment variables (not committed to GitHub)
-│
-├── templates/ # Frontend HTML templates
-│ ├── index.html
-│ ├── login.html
-│ ├── upload.html
-│ └── dashboard.html
-│
-├── static/ # CSS, JS, and image files
-│ ├── styles.css
-│ └── scripts.js
-│
-└── README.md # Project documentation
+![Project Structure](structure.png)
 
 
 
