@@ -68,9 +68,9 @@ file-storage-source-code-main/
 │   ├── upload.html
 │   └── dashboard.html
 │
-├── static/                 # CSS, JS, and image files
+├── static/                 # CSS
 │   ├── styles.css
-│   └── scripts.js
+│
 │
 └── README.md               # Project documentation
 ```
